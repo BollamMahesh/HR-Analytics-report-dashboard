@@ -24,8 +24,6 @@ order by MonthlyIncome desc
  
 select* from [ HR_Employees] 
 
---Identify Duplicates
-SELECT * FROM DuplicateCheck WHERE RowNum > 1;
 
 -- Scenario 1: Total Headcount and Overall Attrition Count
 
