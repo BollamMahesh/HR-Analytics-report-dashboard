@@ -1,4 +1,4 @@
-# HR-Analytics-report-dashboard
+# HR Analytics &  Retention Pipeline
 Technical Architecture & Workflow
 This project was built utilizing a three-tier data pipeline architecture:
 
